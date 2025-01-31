@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    height: 250vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(efe-kurnaz-RnCPiXixooY-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: oblique;
+    font-size: 22px;
+    position: relative;
+}
+.content{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+a{
+    color: darkgray;
+    text-decoration: none;
+    display: inline-block;
+    transition: transform 2.0s ease;
+}
+a:visited{
+    color: #2a3439;
+    text-decoration: underline;
+}
+a:hover{
+    color: darkblue;
+    transition: 1.0s ease;
+    transform: scale(1.5);
+    transform-origin: center;
+}
+h2{
+    color: black;
+}
