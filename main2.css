@@ -20,7 +20,7 @@ body{
 }
 a{
     color: darkgray;
-    text-decoration: none;
+    text-decoration: underline;
     display: inline-block;
     transition: transform 2.0s ease;
 }
