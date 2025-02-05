@@ -36,3 +36,6 @@ a:hover{
 h2{
     color: black;
 }
+ul{
+    list-style-type: none;
+}
