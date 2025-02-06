@@ -42,3 +42,7 @@ h2{
 ul{
     list-style-type: none;
 }
+.image{
+   border: o.1rem solid aqua;
+   border-radius: 2rem;
+}
