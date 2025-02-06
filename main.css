@@ -5,16 +5,18 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .content{
     margin: 10rem;
     text-align: center;
-   min-height: 600px;
-   border: 0.1rem solid aqua;
+    
+    min-height: 600px;
+    border: 0.1rem solid aqua;
     border-radius: 2rem;
     background: transparent;
-    backdrop-filter: blur(15px);  
+    backdrop-filter: blur(15px);
     color:#002A32 ;
-    font-family: monospace;
+    font-family: cursive;
     font-size: 1rem;
 }
 a{
