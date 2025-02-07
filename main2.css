@@ -1,12 +1,10 @@
+
 body{
-   
-    background-image: url(efe-kurnaz-RnCPiXixooY-unsplash.jpg);
+    background-image: url('../images/Developer programmer-Программист-разработчик.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
 }
-
 .content{
     margin: 10rem;
     text-align: center;
@@ -16,34 +14,36 @@ body{
     border-radius: 2rem;
     background: transparent;
     backdrop-filter: blur(15px);
-    color:#002A32 ;
-    
+    color:aliceblue ;
+    font-family: cursive;
     font-size: 1rem;
 }
 a{
-    color: darkgray;
-    text-decoration: underline;
+    color: antiquewhite;
+    text-decoration: none;
     display: inline-block;
     transition: transform 2.0s ease;
 }
 a:visited{
-    color: #2a3439;
+    color: aqua;
     text-decoration: underline;
 }
 a:hover{
-    color: darkblue;
+    color: skyblue;
     transition: 1.0s ease;
     transform: scale(1.5);
     transform-origin: center;
 }
 h2{
-    color: black;
+    color: aquamarine;
 }
-
 ul{
     list-style-type: none;
 }
-.image{
+h1{
+    color: aquamarine;
+}
+}.image{
    border: o.1rem solid aqua;
    border-radius: 2rem;
 }
