@@ -20,7 +20,7 @@ body{
 }
 a{
     color: antiquewhite;
-    text-decoration: none;
+    text-decoration: underline;
     display: inline-block;
     transition: transform 2.0s ease;
 }
@@ -43,7 +43,7 @@ ul{
 h1{
     color: aquamarine;
 }
-}.image{
+.image{
    border: o.1rem solid aqua;
    border-radius: 2rem;
 }
