@@ -51,3 +51,9 @@ ol{
 h1{
     color: aquamarine;
 }
+nav ul{
+    display: inline-flex;
+}
+nav ul li {
+    margin-right: 10px;
+}
