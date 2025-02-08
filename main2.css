@@ -47,3 +47,9 @@ h1{
    border: o.1rem solid aqua;
    border-radius: 2rem;
 }
+nav ul{
+    display: inline-flex;
+}
+nav ul li {
+    margin-right: 10px;
+}
